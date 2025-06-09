@@ -33,4 +33,3 @@ https://github.com/itm4n/PrivescCheck
 https://github.com/MojtabaTajik/Robber
 https://github.com/absolomb/WindowsEnum
 https://github.com/projectdiscovery/nuclei
-https://github.com/scipag/HardeningKitty
